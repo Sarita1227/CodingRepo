@@ -1,0 +1,757 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Nov 17 16:11:32 IST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>552 seconds (552475 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.coding.quoteDemo.QuoteDemoPageTest.TC03_addQuoteFromOtherLink()'><b>TC03_addQuoteFromOtherLink</b><br>Test class: com.coding.quoteDemo.QuoteDemoPageTest<br/>
+<a href="#Output-1427775702" onClick='toggleBox("Output-1427775702", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1427775702" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1427775702">
+Open other link in new tab<br/>
+Switch back to the main tab after fetching all the required quote<br/>
+Add Quote to the database<br/>
+Adding Quote number 0<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is134<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number0<br/>
+Adding Quote number 1<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is74<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number1<br/>
+Adding Quote number 2<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is95<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number2<br/>
+Adding Quote number 3<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is83<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number3<br/>
+Adding Quote number 4<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is128<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number4<br/>
+Adding Quote number 5<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is249<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully inspite of the length issue <br/>
+<b>addNewQuote method failed<br/>
+Unable to add quote 5<br/>
+Adding Quote number 6<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is124<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number6<br/>
+Adding Quote number 7<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is115<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number7<br/>
+Adding Quote number 8<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is140<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number8<br/>
+Adding Quote number 9<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is135<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number9<br/>
+Adding Quote number 10<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is94<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number10<br/>
+Adding Quote number 11<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is82<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number11<br/>
+Adding Quote number 12<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is116<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number12<br/>
+Adding Quote number 13<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is55<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number13<br/>
+Adding Quote number 14<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is162<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number14<br/>
+Adding Quote number 15<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is115<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number15<br/>
+Adding Quote number 16<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is122<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number16<br/>
+Adding Quote number 17<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is120<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number17<br/>
+Adding Quote number 18<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is96<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number18<br/>
+Adding Quote number 19<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is120<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number19<br/>
+Adding Quote number 20<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is116<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number20<br/>
+Adding Quote number 21<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is91<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number21<br/>
+Adding Quote number 22<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is85<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number22<br/>
+Adding Quote number 23<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is82<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number23<br/>
+Adding Quote number 24<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is73<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number24<br/>
+Adding Quote number 25<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is121<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number25<br/>
+Adding Quote number 26<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is88<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number26<br/>
+Adding Quote number 27<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is187<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number27<br/>
+Adding Quote number 28<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is131<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number28<br/>
+Adding Quote number 29<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is109<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number29<br/>
+Adding Quote number 30<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is136<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number30<br/>
+Adding Quote number 31<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is125<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number31<br/>
+Adding Quote number 32<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is152<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number32<br/>
+Adding Quote number 33<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is150<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number33<br/>
+Adding Quote number 34<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is95<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number34<br/>
+Adding Quote number 35<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is95<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number35<br/>
+Adding Quote number 36<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is209<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully inspite of the length issue <br/>
+<b>addNewQuote method failed<br/>
+Unable to add quote 36<br/>
+Adding Quote number 37<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is110<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number37<br/>
+Adding Quote number 38<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is143<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number38<br/>
+Adding Quote number 39<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is107<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number39<br/>
+Adding Quote number 40<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is138<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number40<br/>
+Adding Quote number 41<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is129<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number41<br/>
+Adding Quote number 42<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is113<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number42<br/>
+Adding Quote number 43<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is44<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number43<br/>
+Adding Quote number 44<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is243<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully inspite of the length issue <br/>
+<b>addNewQuote method failed<br/>
+Unable to add quote 44<br/>
+Adding Quote number 45<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is69<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number45<br/>
+Adding Quote number 46<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is62<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number46<br/>
+Adding Quote number 47<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is106<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number47<br/>
+Adding Quote number 48<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is69<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number48<br/>
+Adding Quote number 49<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is85<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number49<br/>
+Adding Quote number 50<br/>
+Verify add new quote is displayed in the page<br/>
+Click on add new quote button and verify add new quote pop up is displayed<br/>
+Enter Author name<br/>
+Enter Quote<br/>
+Click on Save button<br/>
+Verify the quote is successfully saved only if the quote length is between 10 to 200<br/>
+Length of the current quote is142<br/>
+Verify the search bar is enabled<br/>
+Wait untill the search item appears<br/>
+Quote saved successfully ,when the quote is meeting the length criteria<br/>
+<b>addNewQuote method passed<br/>
+Successfully added quote number50<br/>
+<b>TC01_VerifyingLoginDetails method passed<br/>
+</div>
+</td>
+<td></td>
+<td>528</td>
+<td>com.coding.quoteDemo.QuoteDemoPageTest@2e1d27ba</td></tr>
+</table><p>
+</body>
+</html>

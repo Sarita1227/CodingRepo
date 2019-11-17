@@ -1,0 +1,4057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Page URL]]>
+    </line>
+    <line>
+      <![CDATA[Verify the Url is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verify page title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully loaded the Page URL]]>
+    </line>
+    <line>
+      <![CDATA[Before Test method passed]]>
+    </line>
+    <line>
+      <![CDATA[Open other link in new tab]]>
+    </line>
+    <line>
+      <![CDATA[Switch back to the main tab after fetching all the required quote]]>
+    </line>
+    <line>
+      <![CDATA[Add Quote to the database]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 0]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is134]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number0]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 1]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is74]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number1]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 2]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is95]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number2]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 3]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is83]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number3]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 4]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is128]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number4]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 5]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is249]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully inspite of the length issue ]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method failed]]>
+    </line>
+    <line>
+      <![CDATA[Unable to add quote 5]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 6]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is124]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number6]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 7]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is115]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number7]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 8]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is140]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number8]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 9]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is135]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number9]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 10]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is94]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number10]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 11]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is82]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number11]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 12]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is116]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number12]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 13]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is55]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number13]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 14]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is162]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number14]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 15]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is115]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number15]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 16]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is122]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number16]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 17]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is120]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number17]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 18]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is96]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number18]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 19]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is120]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number19]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 20]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is116]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number20]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 21]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is91]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number21]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 22]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is85]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number22]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 23]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is82]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number23]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 24]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is73]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number24]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 25]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is121]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number25]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 26]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is88]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number26]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 27]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is187]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number27]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 28]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is131]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number28]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 29]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is109]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number29]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 30]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is136]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number30]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 31]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is125]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number31]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 32]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is152]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number32]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 33]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is150]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number33]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 34]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is95]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number34]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 35]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is95]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number35]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 36]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is209]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully inspite of the length issue ]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method failed]]>
+    </line>
+    <line>
+      <![CDATA[Unable to add quote 36]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 37]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is110]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number37]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 38]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is143]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number38]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 39]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is107]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number39]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 40]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is138]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number40]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 41]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is129]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number41]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 42]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is113]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number42]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 43]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is44]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number43]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 44]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is243]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully inspite of the length issue ]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method failed]]>
+    </line>
+    <line>
+      <![CDATA[Unable to add quote 44]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 45]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is69]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number45]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 46]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is62]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number46]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 47]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is106]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number47]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 48]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is69]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number48]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 49]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is85]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number49]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quote number 50]]>
+    </line>
+    <line>
+      <![CDATA[Verify add new quote is displayed in the page]]>
+    </line>
+    <line>
+      <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Enter Author name]]>
+    </line>
+    <line>
+      <![CDATA[Enter Quote]]>
+    </line>
+    <line>
+      <![CDATA[Click on Save button]]>
+    </line>
+    <line>
+      <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+    </line>
+    <line>
+      <![CDATA[Length of the current quote is142]]>
+    </line>
+    <line>
+      <![CDATA[Verify the search bar is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Wait untill the search item appears]]>
+    </line>
+    <line>
+      <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+    </line>
+    <line>
+      <![CDATA[<b>addNewQuote method passed]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added quote number50]]>
+    </line>
+    <line>
+      <![CDATA[<b>TC01_VerifyingLoginDetails method passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="552475" started-at="2019-11-17T16:11:32 IST" finished-at="2019-11-17T16:20:44 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="552475" started-at="2019-11-17T16:11:32 IST" finished-at="2019-11-17T16:20:44 IST">
+      <class name="com.coding.quoteDemo.QuoteDemoPageTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.coding.quoteDemo.QuoteDemoPageTest@2e1d27ba]" name="beforeTest" is-config="true" duration-ms="21984" started-at="2019-11-17T16:11:32 IST" finished-at="2019-11-17T16:11:54 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Page URL]]>
+            </line>
+            <line>
+              <![CDATA[Verify the Url is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Verify page title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully loaded the Page URL]]>
+            </line>
+            <line>
+              <![CDATA[Before Test method passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC03_addQuoteFromOtherLink()[pri:3, instance:com.coding.quoteDemo.QuoteDemoPageTest@2e1d27ba]" name="TC03_addQuoteFromOtherLink" duration-ms="528292" started-at="2019-11-17T16:11:54 IST" finished-at="2019-11-17T16:20:42 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Open other link in new tab]]>
+            </line>
+            <line>
+              <![CDATA[Switch back to the main tab after fetching all the required quote]]>
+            </line>
+            <line>
+              <![CDATA[Add Quote to the database]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 0]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is134]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number0]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 1]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is74]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number1]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 2]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is95]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number2]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 3]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is83]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number3]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 4]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is128]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number4]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 5]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is249]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully inspite of the length issue ]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method failed]]>
+            </line>
+            <line>
+              <![CDATA[Unable to add quote 5]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 6]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is124]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number6]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 7]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is115]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number7]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 8]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is140]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number8]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 9]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is135]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number9]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 10]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is94]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number10]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 11]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is82]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number11]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 12]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is116]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number12]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 13]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is55]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number13]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 14]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is162]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number14]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 15]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is115]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number15]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 16]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is122]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number16]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 17]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is120]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number17]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 18]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is96]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number18]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 19]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is120]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number19]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 20]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is116]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number20]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 21]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is91]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number21]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 22]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is85]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number22]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 23]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is82]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number23]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 24]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is73]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number24]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 25]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is121]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number25]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 26]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is88]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number26]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 27]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is187]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number27]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 28]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is131]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number28]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 29]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is109]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number29]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 30]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is136]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number30]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 31]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is125]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number31]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 32]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is152]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number32]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 33]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is150]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number33]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 34]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is95]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number34]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 35]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is95]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number35]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 36]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is209]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully inspite of the length issue ]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method failed]]>
+            </line>
+            <line>
+              <![CDATA[Unable to add quote 36]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 37]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is110]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number37]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 38]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is143]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number38]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 39]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is107]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number39]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 40]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is138]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number40]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 41]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is129]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number41]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 42]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is113]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number42]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 43]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is44]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number43]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 44]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is243]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully inspite of the length issue ]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method failed]]>
+            </line>
+            <line>
+              <![CDATA[Unable to add quote 44]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 45]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is69]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number45]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 46]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is62]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number46]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 47]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is106]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number47]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 48]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is69]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number48]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 49]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is85]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number49]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quote number 50]]>
+            </line>
+            <line>
+              <![CDATA[Verify add new quote is displayed in the page]]>
+            </line>
+            <line>
+              <![CDATA[Click on add new quote button and verify add new quote pop up is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Enter Author name]]>
+            </line>
+            <line>
+              <![CDATA[Enter Quote]]>
+            </line>
+            <line>
+              <![CDATA[Click on Save button]]>
+            </line>
+            <line>
+              <![CDATA[Verify the quote is successfully saved only if the quote length is between 10 to 200]]>
+            </line>
+            <line>
+              <![CDATA[Length of the current quote is142]]>
+            </line>
+            <line>
+              <![CDATA[Verify the search bar is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Wait untill the search item appears]]>
+            </line>
+            <line>
+              <![CDATA[Quote saved successfully ,when the quote is meeting the length criteria]]>
+            </line>
+            <line>
+              <![CDATA[<b>addNewQuote method passed]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added quote number50]]>
+            </line>
+            <line>
+              <![CDATA[<b>TC01_VerifyingLoginDetails method passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC03_addQuoteFromOtherLink -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.coding.quoteDemo.QuoteDemoPageTest@2e1d27ba]" name="closeDriver" is-config="true" duration-ms="2087" started-at="2019-11-17T16:20:42 IST" finished-at="2019-11-17T16:20:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.coding.quoteDemo.QuoteDemoPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
